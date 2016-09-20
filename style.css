@@ -1,0 +1,11 @@
+*{
+    padding:0;
+    margin:10px;
+	font-family:arial;
+	box-sizing: border-box;
+}
+.imgPos{
+	position:absolute;
+	left:0;
+	top:-20px;
+}
